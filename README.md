@@ -1,4 +1,4 @@
-# 🚀 AI & Backend Solutions | Machine Learning Engineer
+# AI & Backend Solutions | Gen AI Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Developer;Deep+Learning+%7C+FastAPI+%7C+Databases;Building+Production-Ready+AI+Systems" alt="Typing SVG" />
@@ -11,118 +11,113 @@
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-Backend-green"/></a>
 </p>
 
----
 
-## 👋 About Me
+## About Me
 
 Hi! I'm **Mahfujur Rahman**, an **AI & Backend Engineer** specializing in building **scalable, production-ready AI systems**.
 
-💡 I help **startups, businesses, and founders** turn ideas into **real AI-powered applications**.
+I help **startups, businesses, and founders** turn ideas into **real AI-powered applications**.
 
-✅ From **model training** to **API deployment**  
-✅ From **database design** to **production systems**  
-✅ Clean, optimized & well-documented code
+From **model training** to **API deployment**
+From **database design** to **production systems**
+Clean, optimized and well-documented code
 
----
 
-## 🧠 My Core Skills
+## My Core Skills
 
-### 🤖 Machine Learning & Deep Learning
-- TensorFlow
-- Keras
-- PyTorch
-- Scikit-Learn
-- Model Optimization & Evaluation
-- Custom Neural Network Design
+### Machine Learning & Deep Learning
 
-### ⚙️ Backend & API Development
-- FastAPI
-- RESTful APIs
-- Authentication & Authorization
-- Async API Design
-- AI Model Deployment
+* TensorFlow
+* Keras
+* PyTorch
+* Scikit-Learn
+* Model Optimization & Evaluation
+* Custom Neural Network Design
 
-### 🗄️ Databases
-- PostgreSQL
-- MySQL
-- Database Design & Optimization
-- SQL Performance Tuning
+### Backend & API Development
 
-### ☁️ Deployment & Tools
-- Docker (basic to advanced)
-- Git & GitHub
-- Linux (Ubuntu)
-- Model Serving & Monitoring
+* FastAPI
+* RESTful APIs
+* Authentication & Authorization
+* Async API Design
+* AI Model Deployment
 
----
+### Databases
 
-## 🔥 What I Can Build For You
+* PostgreSQL
+* MySQL
+* Database Design & Optimization
+* SQL Performance Tuning
 
-✅ **AI-powered Web APIs**  
-✅ **Machine Learning Models (Custom or Pretrained)**  
-✅ **Deep Learning Solutions (NLP / CV / Tabular)**  
-✅ **End-to-End AI Systems**  
-✅ **FastAPI + AI Integration**  
-✅ **Database-Backed AI Applications**
+### Deployment & Tools
 
----
+* Docker (basic to advanced)
+* Git & GitHub
+* Linux (Ubuntu)
+* Model Serving & Monitoring
 
-## 📦 Example Projects
 
-### 🧠 AI Model API
-- ML/DL model served using **FastAPI**
-- Secure endpoints
-- PostgreSQL database
-- Ready for production deployment
+## What I Can Build For You
 
-### 📊 Intelligent Data Analysis System
-- Automated data processing
-- ML predictions
-- Clean API responses
-- Client-friendly documentation
+* AI-powered Web APIs
+* Machine Learning Models (Custom or Pretrained)
+* Deep Learning Solutions (NLP / CV / Tabular)
+* End-to-End AI Systems
+* FastAPI + AI Integration
+* Database-Backed AI Applications
 
-### 🏫 Custom Knowledge AI (RAG)
-- Domain-specific question answering
-- Real data integration
-- Accurate & fast responses
 
----
+## Example Projects
 
-## 🛠️ Tech Stack
+### AI Model API
 
-| Category | Tools |
-|--------|------|
-| ML/DL | TensorFlow, Keras, PyTorch |
-| Backend | FastAPI |
-| Databases | PostgreSQL, MySQL |
-| DevOps | Docker, Git |
-| OS | Linux (Ubuntu) |
+* ML/DL model served using FastAPI
+* Secure endpoints
+* PostgreSQL database
+* Ready for production deployment
 
----
+### Intelligent Data Analysis System
 
-## 📈 Why Clients Choose Me
+* Automated data processing
+* ML predictions
+* Clean API responses
+* Client-friendly documentation
 
-✔ Clean & maintainable code  
-✔ Production-focused mindset  
-✔ Fast communication  
-✔ Scalable architecture  
-✔ Long-term support mindset  
+### Custom Knowledge AI (RAG)
 
-> *I don’t just write code — I build solutions.*
+* Domain-specific question answering
+* Real data integration
+* Accurate and fast responses
 
----
 
-## 📬 Let’s Work Together
+## Tech Stack
+
+| Category  | Tools                      |
+| --------- | -------------------------- |
+| ML/DL     | TensorFlow, Keras, PyTorch |
+| Backend   | FastAPI                    |
+| Databases | PostgreSQL, MySQL          |
+| DevOps    | Docker, Git                |
+| OS        | Linux (Ubuntu)             |
+
+
+## Why Clients Choose Me
+
+* Clean and maintainable code
+* Production-focused mindset
+* Fast communication
+* Scalable architecture
+* Long-term support mindset
+
+> I don’t just write code — I build solutions.
+
+
+## Let’s Work Together
 
 If you’re looking for:
-- An **AI Engineer**
-- A **Machine Learning Developer**
-- A **Backend Engineer for AI Systems**
 
-📩 **Let’s talk and build something powerful.**
+* An AI Engineer
+* A Machine Learning Developer
+* A Backend Engineer for AI Systems
 
----
-
-<p align="center">
-  ⭐ If you like my work, consider starring this repository  
-</p>
+Let’s talk and build something powerful.
