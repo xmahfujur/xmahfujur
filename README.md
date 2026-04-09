@@ -43,6 +43,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmahfujur&theme=dark&hide_border=true&background=0D1117&ring=FF6600&fire=FF6600&currStreakLabel=FF6600" alt="Streak Stats" />
 </p>
 
+<h3 align="center">🧑‍💻 Languages I Know</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmahfujur&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
