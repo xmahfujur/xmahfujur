@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+There+👋;I+am+Mahfujur+Rahman;AI+%26+Backend+Engineer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xmahfujur&label=visitors&color=0e75b6&style=flat" alt="visitors" />
