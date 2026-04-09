@@ -1,12 +1,18 @@
-<h1 align="center">Hi There 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=58&descSize=18" />
+</p>
 
-<h3 align="center">I am Mahfujur Rahman</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=I+am+Mahfujur+Rahman;AI+%26+Backend+Engineer;ML+%7C+DL+%7C+FastAPI+%7C+Python" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xmahfujur&label=visitors&color=0e75b6&style=flat" alt="visitors" />
 </p>
 
-<p align="center">A passionate <strong>AI Engineer & Backend Developer</strong> from Bangladesh 🇧🇩</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Backend+Developer+%F0%9F%87%A7%F0%9F%87%A9" alt="Description" />
+</p>
 
 ---
 
