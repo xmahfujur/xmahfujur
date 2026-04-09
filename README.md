@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I don't just write code — I build solutions.
 
 <p align="center">
-  <a href="mailto:your@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="/cdn-cgi/l/email-protection#93eafce6e1d3f4fef2faffbdf0fcfe"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
@@ -24,7 +24,7 @@
 <h3 align="center">🛠️ Languages · Frameworks · Tools 🛠️</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,postgres,mysql,docker,aws,git,github,linux,vscode&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,html,css,tensorflow,pytorch,fastapi,postgres,mysql,docker,aws,git,github,linux,vscode&perline=10" />
 </p>
 
 ---
@@ -53,5 +53,4 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badg
