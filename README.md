@@ -1,10 +1,6 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00b4d8&height=120&section=header&text=Hi%20There%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</h1>
+<h1 align="center">Hi There 👋</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0e75b6,100:00b4d8&height=60&text=I%20am%20Mahfujur%20Rahman&fontSize=28&fontColor=ffffff&animation=twinkling" />
-</p>
+<h3 align="center">I am Mahfujur Rahman</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xmahfujur&label=visitors&color=0e75b6&style=flat" alt="visitors" />
@@ -20,7 +16,7 @@
 - ⚡ Fun fact: I don't just write code — I build solutions.
 
 <p align="center">
-  <a href="/cdn-cgi/l/email-protection#93eafce6e1d3f4fef2faffbdf0fcfe"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="mailto:your@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
@@ -49,6 +45,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmahfujur&theme=dark&hide_border=true&background=0D1117&ring=FF6600&fire=FF6600&currStreakLabel=FF6600" alt="Streak Stats" />
 </p>
 
+---
+
 <h3 align="center">🧑‍💻 Languages I Know</h3>
 
 <p align="center">
@@ -59,4 +57,5 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badg
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
