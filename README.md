@@ -16,10 +16,10 @@
 
 ---
 
-- 🔭 Working as an **AI & Backend Engineer** — building scalable, production-ready AI systems
+- 🔭 Working as an **AI & Backend Engineer** building scalable, production-ready AI systems
 - 🌱 Currently learning **Gen AI, LangChain, RAG, FastAPI, Docker**
 - 💬 Ask me about **ML, DL, FastAPI, PostgreSQL, Python**
-- ⚡ Fun fact: I don't just write code — I build solutions.
+- ⚡ Fun fact: I don't just write code I build solutions.
 
 <p align="center">
   <a href="mailto:your@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
@@ -32,7 +32,7 @@
 <h3 align="center">🛠️ Languages · Frameworks · Tools 🛠️</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,html,css,tensorflow,pytorch,fastapi,postgres,mysql,docker,aws,git,github,linux,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,java,js,html,css,tensorflow,pytorch,fastapi,postgres,mysql,docker,aws,azure,git,github,linux,vscode&perline=10" />
 </p>
 
 ---
